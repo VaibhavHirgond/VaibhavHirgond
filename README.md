@@ -221,33 +221,6 @@ I have worked with and studied:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=VaibhavHirgond&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="170"
-    alt="Vaibhav's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavHirgond&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="170"
-    alt="Vaibhav's Top Languages"
-  />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=VaibhavHirgond&theme=tokyonight&hide_border=true"
-    alt="Vaibhav's GitHub Streak"
-  />
-</p>
-
----
 
 # 🐍 Contribution Activity
 
