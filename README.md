@@ -12,11 +12,11 @@
 
 - 🎓 **B.E. Information Science & Engineering Graduate – 2026**
 - 💼 **Junior Software Engineer @ Quantumberg Technologies PVT LTD**
-- 🔧 Working with **Frappe Framework, ERPNext, Python, JavaScript, HTML & CSS**
+- 🔧 Working with **Frappe Framework,  Python, JavaScript, HTML & CSS**
 - ☕ Strong interest in **Java & Spring Boot backend development**
 - 💳 Experience working on **FinTech & Payment Gateway systems**
 - 🔐 Interested in **Cybersecurity, Application Security & Secure Backend Systems**
-- 🌱 Currently improving my skills in **Backend Development, Frappe/ERPNext, APIs & System Design**
+- 🌱 Currently improving my skills in **Backend Development, Frappe, APIs & System Design**
 - 🧠 I enjoy solving problems, debugging applications and learning how systems work behind the scenes.
 
 ---
@@ -26,7 +26,7 @@
 ### 👨‍💻 Junior Software Engineer — Quantumberg Technologies PVT LTD
 **August 2026 – Present | Bengaluru, India**
 
-- Working with **Frappe Framework and ERPNext**
+- Working with **Python & Vue.js & Frappe Framework **
 - Developing and debugging backend and full-stack features
 - Working with **Python, JavaScript, HTML and CSS**
 - Understanding and implementing REST APIs
