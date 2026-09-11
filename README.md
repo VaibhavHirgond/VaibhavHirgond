@@ -224,8 +224,16 @@ I have worked with and studied:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavHirgond&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavHirgond&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VaibhavHirgond&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="170"
+    alt="Vaibhav's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavHirgond&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="170"
+    alt="Vaibhav's Top Languages"
+  />
 </p>
 
 ---
@@ -233,7 +241,10 @@ I have worked with and studied:
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VaibhavHirgond&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=VaibhavHirgond&theme=tokyonight&hide_border=true"
+    alt="Vaibhav's GitHub Streak"
+  />
 </p>
 
 ---
@@ -241,7 +252,20 @@ I have worked with and studied:
 # 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VaibhavHirgond/VaibhavHirgond/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/VaibhavHirgond/VaibhavHirgond/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/VaibhavHirgond/VaibhavHirgond/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/VaibhavHirgond/VaibhavHirgond/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---
