@@ -34,7 +34,7 @@
 - Working on business applications and ERP workflows
 
 ### 💻 Software Engineering & Systems Intern — Levant Private Limited
-**April 2026 – Present**
+**April 2026 – July 2026**
 
 - Worked on **Java/JDBC/MySQL based FinTech backend systems**
 - Developed and maintained **REST APIs and webhooks**
