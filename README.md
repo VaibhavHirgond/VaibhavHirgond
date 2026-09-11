@@ -3,7 +3,7 @@
 ### 💻 Junior Software Developer | Java & Spring Boot | Python & Frappe | Backend Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Python+%7C+Frappe+%7C;Backend+%7C+REST+API+Developer;FinTech+%7C+Payment+Gateway+Development;Always+Learning+%7C+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Python+%7C+Frappe;Backend+%7C+REST+API+Developer;FinTech+%7C+Payment+Gateway+Development;Always+Learning+%7C+Always+Building" />
 </p>
 
 ---
